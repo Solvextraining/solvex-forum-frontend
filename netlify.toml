@@ -1,3 +1,4 @@
 [build]
+base = "forum_frontend/forum_frontend"
   publish = "forum_frontend/forum_frontend/dist"
   command = "npm install && npm run build"
